@@ -1,0 +1,20 @@
+/* Tailwind v4 */
+@import "tailwindcss";
+
+@theme {
+  /* ## Colors */
+
+  --color-Yellow: hsl(47, 88%, 63%);
+
+  --color-Gray-500: hsl(0, 0%, 42%);
+  --color-Gray-950: hsl(0, 0%, 7%);
+
+  /* ## Typography */
+
+  /* ### Body Copy */
+  /* (paragraph) */
+  --text-aside: 14px;
+  --text-Font-size: 16px;
+  --text-heading-: 22px;
+  /* ### Font */
+}
